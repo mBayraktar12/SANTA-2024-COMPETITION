@@ -8,20 +8,6 @@ This repository contains my approach to a Kaggle competition where the goal was 
 
 Initially, I explored **brute force methods** for simple cases but transitioned to **simulated annealing** for more complex cases, leveraging heuristic-based optimizations. The computing power and GPU precision were crucial in achieving competitive results.
 
-## Installation & Usage
-
-```bash
-# Clone this repository
-git clone https://github.com/yourusername/kaggle-perplexity.git
-cd kaggle-perplexity
-
-# Install dependencies (if applicable)
-pip install -r requirements.txt
-
-# Run the main script
-python main.py
-```
-
 ## Key Methods
 
 ### 1. Brute Force (for small cases)
